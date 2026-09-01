@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg2-binary
+pgvector
+google-genai
+tenacity
+pypdf
+python-multipart
+pydantic
